@@ -6,10 +6,8 @@ from ShreeMaruti import trackShreeMaaruti
 from DeutschePost import trackDP
 from ACS import trackACS
 from CNEexpress import trackCNE
-# from RoyalMail import trackRoyalMail
 from BRT import trackBRT
 from Asendia import trackAsendia
-# from fedex import trackFedex
 from trackingMore import trackingMore
 
 
